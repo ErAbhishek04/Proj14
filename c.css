@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(235, 213, 217);
+}
+form{
+
+    font-size: x-large;
+    border-style: solid;
+    border-color: orangered;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+button{
+    font-size: larger;
+}
+p{
+   background-color: orange;
+   
+
+}
+strong{
+    background-color: wheat;
+}
+th{
+
+padding-left: 200px;
+
+}
+h1{
+background-color: purple;
+
+}
